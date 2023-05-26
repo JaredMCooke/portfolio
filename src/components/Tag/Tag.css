@@ -1,0 +1,19 @@
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  /* max-height: 24px; */
+  margin-bottom: 12px;
+}
+
+span.tag {
+  display: flex;
+  max-height: 30px;
+  width: fit-content;
+  margin: 9px 9px 0 0;
+  font-size: 0.8rem;
+  /* border: 1px solid black; */
+  border-radius: 15px;
+  padding: 6px 15px;
+  background: #ffff;
+}

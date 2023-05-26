@@ -1,0 +1,67 @@
+.acc-header {
+  height: 60px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+.acc-item-header {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.acc-item-header span {
+  padding: 15px;
+}
+
+.acc-sub-header {
+  display: flex;
+  align-items: center;
+  /* height: 100%; */
+}
+
+.acc-sub-header span {
+  padding-left: 15px;
+}
+
+.accordian-item {
+  margin-bottom: 36px;
+}
+
+.acc-position {
+  flex-grow: 1;
+}
+
+.bullet {
+  margin: 15px 12px;
+  list-style: none;
+  width: 80%;
+  /* padding: 3px 15px; */
+  /* width: 75%; */
+}
+
+.close {
+  padding: 15px;
+  margin-right: 9px;
+}
+
+.location-icon {
+  /* margin-right: 5px; */
+}
+
+span.acc-location {
+  padding-left: 9px;
+}
+
+/* .acc-company {
+  position: relative;
+  top: -15px;
+  display: block;
+  padding-left: 15px;
+}
+
+.acc-location {
+  display: block;
+  padding-left: 15px;
+} */

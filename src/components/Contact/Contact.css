@@ -1,0 +1,38 @@
+/* CONTACT COMPONENT */
+.contact-container {
+  display: flex;
+  justify-content: end;
+  width: 40%;
+}
+ul.contact-list {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #ffff;
+  width: auto;
+  height: 250px;
+  align-items: start;
+  justify-content: center;
+  border-radius: 12px;
+}
+li.contact {
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+}
+
+li.contact i {
+  display: flex;
+}
+
+li.contact p {
+  margin-left: 18px;
+  font-size: 0.9rem;
+}
+
+.contact-icon {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 10px;
+  align-items: center;
+}

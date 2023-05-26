@@ -1,0 +1,52 @@
+export const POSITIONS = [
+  {
+    position: "Interaction Designer",
+    date: "2021 - 2022",
+    company: "MO Studio",
+    location: "Remote",
+    link: "iteraction-designer",
+    content: [
+      "Helped plan and facilitate Co-Design workshops with stakeholders across the country to collaboratively create solution concepts.",
+      "Created low, medium, and high fidelity wireframes used throughout the design process during the re-design of VA websites.",
+      "Planned and facilitated user testing sessions remotely with users across the country.",
+      "Designed assets and activities for remote user testing sessions to inform product development.",
+      "Created research plans, journey maps, service blueprints, prototypes, and presentations for VA and US Air Force clients to deliver accessible design, achieving 508 compliance.",
+    ],
+    tags: [
+      "React",
+      "Figma",
+      "Flutter",
+      "Sketch",
+      "User Testing",
+      "User Research",
+      "Human-Centered Design",
+    ],
+  },
+  {
+    position: "Developer",
+    date: "2020 - 2021",
+    company: "MO Studio",
+    location: "Remote",
+    link: "developer",
+    content: [
+      "Partnered with the US Air Force to develop a digital platform service enabling rapid mobile application development, including an API and mobile application. The project aimed to provide seamless and efficient solutions to improve the user experience and operational effectiveness.",
+      "Collaborated with the US Air Force to develop a mobile application and administrative dashboard aimed at modernizing an outdated check-in process.",
+      "Facilitated and synthesized 20+ user and stakeholder interviews to inform product direction throughout the development of a mobile application of the US Air Force, prioritizing desirability, feasibility, and viability.",
+      "Spearheaded internal initiatives for the company, including maintaining and updating the company website, optimizing the company database, and facilitating the configuration of company devices to Apple's MDM solution.",
+    ],
+    tags: ["React", "Flutter", "REST APIs", "User Research"],
+  },
+  {
+    position: "Application Developer",
+    date: "2019 - 2020",
+    company: "Exsilio Solutions",
+    location: "Irvine, CA",
+    link: "applicaiton-developer",
+    content: [
+      "Programmed on a Microsoft Product called Microsoft Release Roadmap, a Web application for internal use by Microsoft's Marketing/Engineering departments, leveraging existing tools to carefully sync data with this new application.",
+      "Improved accessibility and user experience of Microsoft Release Roadmap by developing and implementing a custom scrollbar module, while also creating user-friendly features enabling easy selection and clearing of fields for group, announcement, and feature additions and edits.",
+      "Worked closely with software development and testing team members to design and develop dynamic solutions to meet client requirements for functionality, scalability and performance.",
+    ],
+    tags: ["jQuery", "C#", "SQL", "HTML5", "CSS", "Angular"],
+  },
+];
